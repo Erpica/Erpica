@@ -1,4 +1,4 @@
-<img src="blue-2878_1280.jpg" alt="Pic" width="600" height="400"/>
+<img src="blue-2878_1280.jpg" alt="Pic" width="700" height="300"/>
 
 ## Hi there 👋
 <h1>Esto va a ser mi página principal.</h1>

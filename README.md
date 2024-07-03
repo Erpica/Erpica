@@ -1,4 +1,4 @@
-<img src="blue-2878_1280.jpg" alt="Pic" />
+<img src="blue-2878_1280.jpg" alt="Pic" sizes="(min-width: 600px) 200px, 50vw"/>
 
 ## Hi there 👋
 <h1>Esto va a ser mi página principal.</h1>

@@ -32,4 +32,7 @@ git merge - Integra los cambios de una rama en otra.
 git diff - Ver las diferencias entre el directorio de trabajo y el área de preparación.
 git log: muestra una lista cronológica de confirmaciones.
 git stash: te permite guardar temporalmente los cambios que has realizado en tu código, sin necesidad de enviarlos al repositorio.
+
+MARKDOWN PARA GITHUB:
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
   -->

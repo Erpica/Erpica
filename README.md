@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 -->
 
   <!--
+APP GUI: https://www.gitkraken.com/
+OTRA: https://desktop.github.com/download/
+  
 COMANDOS MÁS ÚTILES EN GIT (Franco Jofré):
 git init - Inicializa un nuevo repositorio de Git.
 git clone: clona un repositorio remoto en tu máquina local.

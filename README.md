@@ -2,6 +2,11 @@
 
 ## Hola soy Erpica 👋
 <h1>Desarrollador de software y creador de contenido.</h1>
+
+<h2>- 🔭 I’m currently working on Spreadshettapp de Google Sheet</h2>
+<h2>- 🌱 I’m currently learning Javascript</h2>
+<h2>- 👯 I’m looking to collaborate on my job</h2>
+
 <!--
 **Erpica/Erpica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

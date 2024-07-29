@@ -1,6 +1,7 @@
+## Hola soy Erpica 👋
+
 <img src="blue-2878_1280.jpg" alt="Pic" width="700" height="300"/>
 
-## Hola soy Erpica 👋
 <h1>Desarrollador de software y creador de contenido.</h1>
 
 <h2>- 🔭 I’m currently working on Spreadshettapp de Google Sheet</h2>

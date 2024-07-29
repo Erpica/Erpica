@@ -1,6 +1,6 @@
 <img src="blue-2878_1280.jpg" alt="Pic" width="700" height="300"/>
 
-## Hi there 👋
+## Hola soy Erpica 👋
 <h1>Esto va a ser mi página principal.</h1>
 <!--
 **Erpica/Erpica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

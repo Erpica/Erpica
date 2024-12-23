@@ -6,6 +6,7 @@
 
 <h2>- 🔭 I’m currently working on Spreadshettapp de Google Sheet</h2>
 <h2>- 🌱 I’m currently learning Javascript</h2>
+<h2>- 🌱 I’m currently learning Python and I completed two new certificates</h2>
 <h2>- 👯 I’m looking to collaborate on my job</h2>
 
 <!--
